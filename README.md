@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mislav Rajkovic</h1>
-<h3 align="center">I am Front End developer</h3>
+<h3 align="center">A passionate Front End developer from Croatia</h3>
 
 - 🧠 I’m currently learning **TypeScript**
 
