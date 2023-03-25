@@ -3,7 +3,7 @@
 
 - 🧠 I’m currently learning **TypeScript**
 
-- 🤝 I'm open to collaboration on **interesting projects as a developer**
+- 🤝 I'm open to collaborate on **interesting projects as a developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
